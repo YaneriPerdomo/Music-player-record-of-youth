@@ -1,3 +1,1 @@
-Es un proyecto personal que se trata de un reproductor de musica mas que todo acerca de la banda sonora
-del kdrama "Recuerdos de Juventud" porque hace poco me lo vi completo, y en realidad me gustò mucho, y gracia 
-a este kdrama tuve la idea de realizar este tipo de proyecto personal. 
+Es un proyecto personal que trata sobre un reproductor de música más que nada sobre la banda sonora del kdrama "Memories of Youth" porque hace poco lo vi completo, y la verdad me gustó mucho, y gracias a este kdrama tuve la idea. . para realizar este tipo de proyecto personal.
